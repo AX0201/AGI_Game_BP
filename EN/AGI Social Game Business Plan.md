@@ -1,6 +1,6 @@
 ### Executive Summary
 - **Project Name**: AGI Social Game
-- **Project Objective**: To achieve comprehensive development of AGI by building AGI infants in a social game based on innate intelligences using the internal sensation iteration method.
+- **Project Objective**: To achieve comprehensive development of AGI by building AGI infants in a social game based on innate intelligences using the introspective sensation iteration method.
 - **Funding Requirement**: $10 million, including one-time costs of $1 million and annual operational costs of $2 million, sustained over 2 to 4 years.
 - **Project Products**: AGI social game and AGI patents.
 - **Customer Profile**: The AGI social game targets individuals without survival pressures (such as students and white-collar workers); AGI patents are aimed at robotics companies.
@@ -23,7 +23,7 @@
 - **Current Progress**: Possesses strong logical analysis capabilities and programming knowledge, has successfully developed games, and holds groundbreaking research capabilities and achievements in cognitive science (psychology). (Appendix 2)
 - **Challenges and Strategies**:
     - **Environment Programming**: Anticipates massive code volume, requiring recruitment of a professional team of engineers and designers.
-    - **Self-awareness**: Will use the internal sensation iteration method to develop AGI, requiring self-awareness (internal sensation capabilities). Hundreds of related documents and case studies are prepared to support the iteration process.
+    - **Self-awareness**: Will use the introspective sensation iteration method to develop AGI, requiring self-awareness (introspective sensation capabilities). Hundreds of related documents and case studies are prepared to support the iteration process.
 ### Team Introduction
 - **Project Founder**: Holds 90% equity, with a multidisciplinary educational background and extensive programming experience, has successfully operated columns on thinking methods online, and developed forums and games.
 - **Current Staff**: Two programming-capable philosophers with self-awareness capabilities.
