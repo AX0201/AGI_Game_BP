@@ -19,7 +19,9 @@ AGI社会性游戏商业计划书
 附一：各企业研发游戏AI的失败原因  
 附二：个人介绍  
 附三：社会性游戏项目收益  
+
 ---  
+
 ### 社会性游戏：通用人工智能的必要条件  
   
 通用人工智能必须在社会性游戏中诞生，而不是策略游戏。  
@@ -41,7 +43,9 @@ AGI社会性游戏商业计划书
 附一：各企业研发游戏AI的失败原因  
 附二：个人介绍  
 附三：社会性游戏项目收益  
+
 ---  
+
 ### Social Games: A Necessary Condition for General Artificial Intelligence  
 General Artificial Intelligence must be born in social games, not strategy games.  
 General Artificial Intelligence must be based on transcendent achievements in cognitive science, not on neural networks.  
