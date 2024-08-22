@@ -3,7 +3,7 @@
 - [超越AlphaGo](#社会性游戏：通用人工智能的必要条件)  
 - [超越GPT](#商业计划书：基于社会性游戏而实现通用人工智能)  
   
-### 商业计划书：基于社会性游戏而实现通用人工智能  
+### 商业计划书：基于社会性游戏而实现通用人工智能
   
 通用人工智能（AGI），市场至少十万亿。  
 大模型无法实现AGI。大模型是先天智能，而AGI必须是后天智能。（附一）  
@@ -22,7 +22,7 @@ AGI社会性游戏商业计划书
 
 ---  
 
-### 社会性游戏：通用人工智能的必要条件  
+### 社会性游戏：通用人工智能的必要条件
   
 通用人工智能必须在社会性游戏中诞生，而不是策略游戏。  
 通用人工智能必须基于超越时代的认知科学成果，而不是神经网络。  
@@ -46,7 +46,8 @@ AGI社会性游戏商业计划书
 
 ---  
 
-### Social Games: A Necessary Condition for General Artificial Intelligence  
+### Social Games: A Necessary Condition for General Artificial Intelligence
+
 General Artificial Intelligence must be born in social games, not strategy games.  
 General Artificial Intelligence must be based on transcendent achievements in cognitive science, not on neural networks.  
 I research AGI using the method of introspective iteration. I possess cognitive science achievements that transcend the era.  
