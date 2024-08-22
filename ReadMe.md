@@ -1,5 +1,5 @@
 ### Language  
-- [OverAlphaGo](#social-games:-a-necessary-condition-for-general-artificial-intelligence)  
+- [OverAlphaGo](#social-games-a-necessary-condition-for-general-artificial-intelligence)  
 - [超越AlphaGo](#社会性游戏通用人工智能的必要条件)  
 - [超越GPT](#商业计划书基于社会性游戏而实现通用人工智能)  
 
